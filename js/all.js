@@ -1,1 +1,1 @@
-alert("all ok");
+document.write("all ok");
